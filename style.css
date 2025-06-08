@@ -1,0 +1,215 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+   background: radial-gradient(circle at center, #5A3CF4, #1C1B33, #000000);
+}
+header{
+    padding: 40px 0;
+    margin: 0 auto;
+    /* background-color: black; */
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-2 ul li{
+     color: antiquewhite;
+     padding-left: 20px;
+}
+.header-2 ul {
+    display: flex;
+}
+.header-3 h3{
+    color: antiquewhite;
+}
+.header-1 {
+    color: antiquewhite;
+}
+.header-3,img{
+    display: flex;
+    margin-right: 10px;
+   
+}
+.banner{
+    text-align: center;
+    margin-top: 40px;
+    /* background-color: black; */
+    padding: 50px 0;
+}
+.banner-1 h2{
+    font-size: 40px;
+      margin: 30px 0;   
+      color: white;
+}
+.banner-1 p{
+    width: 300px;
+    margin: 0 auto;
+    color: white;
+    margin-bottom: 20px;
+}
+.banner-1 button{
+    padding: 10px 21px;
+    background-color: aqua;
+    color: white;
+    border: 3px solid aqua;
+   
+} 
+/* /////////////////////////////////////////////////////////////////////// */
+    .stats-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .stat-box {
+      flex: 1 1 150px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      padding: 15px;
+      text-align: center;
+      background-color: #f9f9f9;
+    }
+
+    .stat-box h3 {
+      margin: 0;
+      font-size: 1.5em;
+      color: #333;
+    }
+
+    .stat-box p {
+      margin-top: 5px;
+      color: #666;
+    }
+    .section{
+        margin-top: 50px;
+    }
+    .section-1{
+        text-align: center;
+    }
+    .section-1 p{
+        width: 300px;
+        margin:  0 auto;
+        padding: 30px 0;
+    }
+    .section-3{
+        text-align: center;
+        margin: 50px 0;
+    }
+    .section-3 p{
+        width: 500px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    /* //////////////////////////////////////////////////////////////// */
+  
+   .market-main{
+    display: flex;
+   align-items: center;
+    
+   }
+   .market-1 p{
+    width: 400px;
+   }
+   .market-1 h3{
+       margin: 40px 0;
+   }
+   .market-2 img{
+    padding-left: 70px;
+   }
+   /* /////////////////////////////////////////////////////////////////// */
+   .crypto-main{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+   }
+   .crypto-1 img{
+    width: 500px;
+   }
+   .crypto-2 p{
+       width: 300px;
+   }
+   .crypto-2 h3{
+    margin: 30px 0;
+    width: 300px;
+   }
+   .crypto-2{
+    padding-left: 90px;
+   }
+   /* ////////////////////////////////////////////////////////////////////// */
+   
+ 
+
+.Binance-main{
+    display: flex;
+    align-items: center;
+}
+.Binance-wrapper{
+    text-align: center;
+    margin: 0 auto;
+}
+.Binance-2{
+    display: flex;
+}
+.Bite{
+    margin-left: 60px;
+    margin-bottom: 40px;
+}
+.company{
+    color: white;
+    margin: 80px 0;
+    text-align: center;
+}
+.company-1 h5{
+   width: 300px;
+   margin: 0 auto;
+}
+.company-1 p{
+    width: 400px;
+    margin: 0 auto;
+    padding: 40px 0;
+   
+}
+/* //////////////////////////////////// */
+.Touch{
+    color: white;
+}
+.Touch-main{
+    text-align: center;
+}
+.Toch-2 button{
+    padding: 12px 21px;
+    background-color: #1C1B33;
+    color: white;
+    border: 3px solid cadetblue;
+}
+.Touch-1 p{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+/* ////////////////////////////////////////////////////////////////////// */
+footer{
+    margin-top: 40px; 
+   /* background-color: black; */
+   padding: 50px 0;
+}
+.footer-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-1,ul li{
+    color: white;
+   padding: 20px 0;
+}
